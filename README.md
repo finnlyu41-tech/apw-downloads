@@ -12,7 +12,7 @@ This repository distributes installers, checksums and licensing information. App
 - **Mac with Intel:** use the `x64.dmg` file.
 - **Windows x64:** run the `.exe` installer. APW stores workbench records locally and retains them when the application is uninstalled.
 
-The initial trial is unsigned and the Mac builds are not notarized. Operating systems may show security warnings. No account, payment, automatic renewal or automatic update service is required. Trial use is personal, non-commercial and non-production under [LICENSE](LICENSE).
+The Mac trial uses local ad-hoc signing without a Developer ID certificate or Apple notarization. The Windows trial has no publisher certificate. Operating systems may show security warnings. No account, payment, automatic renewal or automatic update service is required. Trial use is personal, non-commercial and non-production under [LICENSE](LICENSE).
 
 Compare your download's SHA-256 with the release's `SHA256SUMS` before installation. Keep independent backups. Previous browser records do not transfer automatically: import an existing APW JSON backup and verify the result; do not clear the original browser profile.
 
