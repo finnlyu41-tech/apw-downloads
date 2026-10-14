@@ -1,0 +1,89 @@
+APW Proprietary License 1.0
+Published: 2026-09-06 | First distribution using these terms: APW 0.7.0
+Desktop evaluation clarification: 2026-10-14 (APW 0.8.0)
+
+Licensor: Finn (GitHub account: finnlyu41-tech), only in respect of material
+owned by, or validly licensed for this purpose to, the Licensor.
+Copyright (c) 2026 Finn, for such material. All rights reserved except as
+expressly granted below. Other copyright holders retain their own rights.
+
+1. Scope and earlier MIT material
+
+"Covered Material" means original APW additions or modifications first
+published under this License, and other material the Licensor is entitled
+to offer under it. It excludes independently licensed third-party material
+and material already made available under MIT or another license.
+
+The historical MIT baseline is repository commit
+71ab2a080d2ccd9df2b75741eae81e3fe0f3d2fd (package version 0.6.7).
+The unchanged historical notice is retained in licenses/MIT-legacy.txt.
+Nothing here withdraws, replaces or restricts rights already granted for
+that material, including the same material carried into later versions.
+Changing the release number or this file does not make old MIT code exclusive.
+This License is not an open-source license and is not a retroactive conversion.
+
+2. Free evaluation permission
+
+Subject to this License, you may inspect the source and make private local
+copies or builds solely for non-production evaluation. You may install and use an unmodified official APW desktop build on macOS
+or Windows for personal, non-commercial evaluation, including the local
+copies necessary for that use. Previously distributed official APW web builds
+may likewise be used for personal, non-commercial evaluation. No fee is charged for
+these evaluation permissions. Production and commercial use require section 3.
+
+3. Commercial and other permissions
+
+Unless authorized separately in writing by the Licensor, you may not use
+Covered Material in production, internal business operations or client work;
+modify or incorporate it into another product; redistribute, sublicense,
+sell, white-label or publish it; or offer a hosted service based on it.
+These restrictions do not apply to rights preserved by sections 1, 4 or 7.
+An evaluation grant is not permission to deploy a copy for other users.
+
+Request commercial or other permission using the contact details at
+https://finn.idv.hk/
+Do not include client records, credentials or confidential terms in public
+messages. Agree a private channel before exchanging confidential information.
+Any fees, seats, support, hosting or service commitments require a separate
+written agreement. This file creates no subscription or automatic charge.
+The Licensor's own use of material they control is not restricted by this
+License and requires no payment to themselves, including their professional use.
+
+4. Third-party licenses and hosting-platform rights
+
+Third-party packages, icons, notices and historical contributions retain
+their original terms. See THIRD_PARTY_NOTICES.md and public/legal/.
+Those terms govern their respective material and take precedence over any
+conflicting restriction here. Do not remove required copyright/license notices.
+Rights independently granted through GitHub's Terms of Service, including
+viewing and forking public repositories through the Service, are not restricted
+by this License. Public visibility does not grant additional commercial rights.
+
+5. Your data and outputs
+
+This License does not claim ownership of your client records, backups,
+user-authored templates, follow-up text or reports. You may export and use
+your own data and outputs, subject to any third-party rights in their content.
+You may use available export/recovery functions to retrieve your data even
+when you do not have permission for further production use of Covered Material.
+No audit opinion, professional certification or compliance guarantee is granted.
+
+6. No warranty or service promise
+
+To the fullest extent permitted by law, Covered Material is provided as-is
+and as-available, without warranties of fitness, merchantability, title or
+non-infringement. The Licensor disclaims liability for loss of data, profits
+or other damages arising from its use, except where the law forbids exclusion.
+No hosting availability, support, updates, cloud storage or backup retention
+is promised. A software permission does not override hosting-provider terms.
+
+7. Mandatory rights, termination and interpretation
+
+Nothing limits rights or liabilities that applicable law does not allow to
+be limited, or your rights under earlier or third-party licenses. Evaluation
+permission ends if you materially breach these terms and do not cure within
+30 days after written notice; data-retrieval and independently licensed rights
+remain unaffected. No trademark or endorsement rights are granted.
+A separate written agreement controls to the extent it expressly differs.
+This English text is the license; explanatory translations are not additional
+grants. These terms apply only to distributions carrying them, not retroactively.
